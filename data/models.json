@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Avengers",
+    "category": "Character",
+    "image": "images/avengers.png",
+    "model": "models/avengers.glb"
+  },
+
+  {
+    "name": "Axe",
+    "category": "Weapon",
+    "image": "images/axe.png",
+    "model": "models/axe.glb"
+  },
+
+  {
+    "name": "Coffee Cafe",
+    "category": "Environment",
+    "image": "images/coffee-cafe.png",
+    "model": "models/coffee-cafe.glb"
+  },
+
+  {
+    "name": "Filter Gun",
+    "category": "Weapon",
+    "image": "images/filter-gun.png",
+    "model": "models/filter-gun.glb"
+  },
+
+  {
+    "name": "House",
+    "category": "Architecture",
+    "image": "images/house.png",
+    "model": "models/house.glb"
+  },
+
+  {
+    "name": "Top",
+    "category": "Product",
+    "image": "images/top.png",
+    "model": "models/top.glb"
+  }
+]
